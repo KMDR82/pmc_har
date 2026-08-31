@@ -1,0 +1,19 @@
+comparison,regime,severity,n_pairs,median_delta,p_value
+mdrop vs baseline,burst,1,22,0.0255,0.06844
+mdrop vs baseline,burst,10,22,0.0809,0.00026
+mdrop vs baseline,burst,3,22,0.044,0.00285
+mdrop vs baseline,burst,30,22,0.1545,3e-05
+mdrop vs baseline,gradual,-,22,0.0916,0.0003
+mdrop vs baseline,persistent,-,22,0.1162,0.0001
+mdrop vs faware2,burst,1,22,0.0158,0.19822
+mdrop vs faware2,burst,10,22,0.0293,0.03907
+mdrop vs faware2,burst,3,22,0.0189,0.12068
+mdrop vs faware2,burst,30,22,0.0255,0.00593
+mdrop vs faware2,gradual,-,22,0.0282,0.00744
+mdrop vs faware2,persistent,-,22,0.0275,0.00832
+faware2 vs baseline,burst,1,22,0.0037,0.38804
+faware2 vs baseline,burst,10,22,0.0578,0.0025
+faware2 vs baseline,burst,3,22,0.0079,0.05007
+faware2 vs baseline,burst,30,22,0.101,0.00059
+faware2 vs baseline,gradual,-,22,0.0746,0.00367
+faware2 vs baseline,persistent,-,22,0.0831,0.00167
