@@ -1,0 +1,19 @@
+comparison,regime,severity,n_pairs,median_delta,p_value,p_holm,sig05
+mdrop vs baseline,burst,30,22,0.1545,3e-05,0.00054,True
+mdrop vs baseline,persistent,-,22,0.1162,0.0001,0.0017000000000000001,True
+mdrop vs baseline,burst,10,22,0.0809,0.00026,0.00416,True
+mdrop vs baseline,gradual,-,22,0.0916,0.0003,0.0045,True
+faware2 vs baseline,burst,30,22,0.101,0.00059,0.00826,True
+faware2 vs baseline,persistent,-,22,0.0831,0.00167,0.02171,True
+faware2 vs baseline,burst,10,22,0.0578,0.0025,0.03,True
+mdrop vs baseline,burst,3,22,0.044,0.00285,0.03135,True
+faware2 vs baseline,gradual,-,22,0.0746,0.00367,0.0367,True
+mdrop vs faware2,burst,30,22,0.0255,0.00593,0.05337,False
+mdrop vs faware2,gradual,-,22,0.0282,0.00744,0.05952,False
+mdrop vs faware2,persistent,-,22,0.0275,0.00832,0.05952,False
+mdrop vs faware2,burst,10,22,0.0293,0.03907,0.23442000000000002,False
+faware2 vs baseline,burst,3,22,0.0079,0.05007,0.25035,False
+mdrop vs baseline,burst,1,22,0.0255,0.06844,0.27376,False
+mdrop vs faware2,burst,3,22,0.0189,0.12068,0.36204,False
+mdrop vs faware2,burst,1,22,0.0158,0.19822,0.39644,False
+faware2 vs baseline,burst,1,22,0.0037,0.38804,0.39644,False

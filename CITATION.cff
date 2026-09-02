@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "Sensor-failure processes and missing-modality evaluation in wearable HAR"
+authors:
+  - family-names: "Akkaya"
+    given-names: "Ahmet"
+    orcid: "https://orcid.org/0000-0003-4836-2310"
+year: 2026
+repository-code: "https://github.com/KMDR82/pmc_har"

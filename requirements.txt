@@ -1,0 +1,7 @@
+# Kaggle GPU image, Python 3.12.13, CUDA 12.8 (torch cu128 build)
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.6.1
+matplotlib==3.10.0
+torch==2.10.0
