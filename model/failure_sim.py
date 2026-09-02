@@ -1,5 +1,5 @@
 """
-failure_sim.py — device-level sensor-failure simulator for wearable HAR.
+failure_sim.py - device-level sensor-failure simulator for wearable HAR.
 v0.2 (frozen). Trace-driven generation (D4); parametric fallback (D1/D3).
 Empirical pools are loaded from the run/gap CSVs produced in Phase 0/1.
 """
