@@ -1,0 +1,6 @@
+dataset/
+model/ckpt/
+__pycache__/
+*.pt
+*.npz
+.ipynb_checkpoints/
